@@ -24,6 +24,6 @@ class PapsiBottle implements Bottle{
 }
 
 void main(){
-  Bottle coke =Bottle('Fanta');
+  Bottle coke =Bottle('Papsi');
   coke.open();
 }
